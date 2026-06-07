@@ -13,7 +13,7 @@ export default function Header() {
       <div className="flex items-center justify-between max-w-6xl mx-auto">
         {/* Logo */}
         <img
-          src="home/public/littel-lemon-logo.png"
+          src="/littel-lemon-logo.png"
           alt="Logo"
           className="w-32 h-20 object-cover cursor-pointer"
           onClick={() => navigate("/home")}
