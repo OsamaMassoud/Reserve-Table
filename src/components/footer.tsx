@@ -19,7 +19,7 @@ export default function Footer() {
           {/* 1. Logo  */}
           <div className="flex items-center gap-3 justify-center md:justify-start">
             <img
-              src="/littel-lemon-logo.png"
+              src="littel-lemon-logo.png"
               alt="Little Lemon"
               className="w-12 h-12 object-cover rounded-full"
             />
